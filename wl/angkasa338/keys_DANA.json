@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "dana-new-412205",
+    "private_key_id": "c00e6dccfd09c5be1900f4ce402fc82260e49cf6",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDJWovogOzTBRwx\nfAUAbYwqUaRfC5AO4oGwY195BqqBb9uZV7Jq10NUCSvKTgBk9ROE0fov3J6JF6nO\nw/J8Yud6LWSVGgvIWqSkLJG5QqFtKStFHLoQ4cmn+hYexA/7XUCeZCIkytSBlX33\n5LMT42mGmYvxM6vrQIwhR9QUscUTTIdc9z5PfCOEzm/y5Zt3VSRYZ5hvxRR6uvgN\nxiXenKJFTDnd4Mf+Wies/fIlZ8HNc2OcbQjjc7CDU6Gc8ayb+bdVyTv5bpe6zGlo\nl6ruwDjioMI3eHz4ctHs+Z8TH27ZXXY4Xt1Gonfrqc5UXXDB5wWkg5ausMtC3rhL\nS5zUinf1AgMBAAECggEAD9qrj/3Qx+fL2cCeYzN8+RsPEnXGXMmsdP9KFe02sTTl\nyVvsnjl/YWdMdaQxJ0HdzNQ8uxaHvBsrIW7v0af2+nmHBS91FIxAkPW6bqgmrkHy\n2IEDzI7+shWAtuDwsjXcP+x5/MQkueRTtBhjmlIKbdD6wh3zsDUXo4o0koGR1yxI\nbAvJaZ+04cqVZYSS+Y+gMzQGEvhyInMP/XnE1KxI2MMMIoN35fA3L2hkYznKPB+n\nNr3rj6k22jZmWnyPMGJkVQRlMxam7mtYc+3cVr+YAYIhuETXOnaVG7oLQQZLzCV1\nk91iKLXCFCDjhgtmd1h+pyORpNwJ3TJ7cLlurjqduQKBgQDoKSK4xQUstTNGMuV4\nUZdvTKgrjeu1+x491213btvfD7RDEUyq4osH6PyyFXgp9eQAmARR5VtXm5eS1K8p\nEGN78ARzMREPl2zYa0QJpajd8oYkYew3/+fOqMYdbdjxHs/1Qc2SJ00wEdXJJ/ex\nMTnGJ3dTAD9K+9Sa61SAi5YxqQKBgQDeB5SAgoiZpLt8sWEjOj/yABDfBdC7Vh23\nZSDRVw3LIdqlICqSo6w9/AK/qmzPi8L25b5QcdV/RRA0lzmDaWBxrOXs6XZsMRn+\no4q1aMuc6gUZauiBxxQuTNaTUNYu064MmWbjW8MgsH4GsJl3WHh2iVpDFvM+tMjS\nN8ZsSRabbQKBgQDkB7t+Bq6NejExqz4uzt1SSdYIaa5yoYPTtCxmGfJGh1NEaNKI\nKlnq3BKQDHxpooZfevELS59LTp0zcEnXqKw+iMKmLjSWvuH/NGSwoRFbZyIQzEnL\nu0SBfM6TC1kBhIU4XXjALHApXetBWEt2tGYN1qfiU6TXTsFFpQ3r8K8GeQKBgQDZ\nC8vt/K0QlWr6sGPnDhBowAu+GW89UyflmiSEwHcpdkTJWzKC+yFrzqnZN/76vQOw\nXFK5TS6KJbd70cFVZ3PybDSwbmFnznA87x6vzGwPTu4BNPNpunVN9atlg4Z9bE0e\n3+8mnxOXJzFr1MORWZkZN5hXMV5ElHIknoWIYcKJ2QKBgH0QqZRQgtrU1a6n93CM\n7jqkR5c+qOjVLh8UpkO7JnceD3nno+QhElpFBq85U6cV5faQosDsdNJgUSvlS+ev\nNjjNGLISM6HNGN7WiYb7FVFP0cAnKP0xh+GgZRAhAYs8tBwZv0s4lQ+oXEqOZa7Y\n+c937kDiMTAcVovV7HP+aRjD\n-----END PRIVATE KEY-----\n",
+    "client_email": "dana-new@dana-new-412205.iam.gserviceaccount.com",
+    "client_id": "115642782922751411469",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dana-new%40dana-new-412205.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

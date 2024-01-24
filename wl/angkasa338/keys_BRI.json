@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "bri-bank-412205",
+    "private_key_id": "45200cea4fc7a296b58699260a5be36d9bfe55d6",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDPPYsL5Oc5ixOv\naXk0aZDGpDMwJv6r3xjO2E0MzVPQRSB1Cqd6cx0OpbhZDF1qNO6e3STPoJVHqTUA\nakU9FlzI0PtDUlg2O7oNGrqycem7nJj0fO16IFB1aZ5N9A1R/WcRDaDrlZwJJk/g\n3YDlOhOSBOhNbrEgFK3u3U/6mLbqP99MlsPzG3/A2se7W4ElOw46zRZhcKN0n76W\nYE4WPWt0Kz1s6Xw0ILkfOVOiuA3Gw4FxQmnqgnk4VqnTR41ZeF7BPLfGEKYD+npI\nFjujWh9j5dgIIRFncKLCop1pPEShwG6nDHTuAVLDKO2ZQJ1CWYY8mQtegrwq+828\nJI76QB1pAgMBAAECggEAD87tgYmYpm04ogZP072DvitTU5vTNxAXEobcZcVvMca8\nIZbKTLm64IhSph7z10CqEnM4YMrVPaNSItx4Y0mxPTOidFxefzs8x3gfqrIBdtQM\ntNr8uyFQ5zaYd/DNvVCGS/43+rstrQ2qRTMQUdawHHuEWY0VNNHEV3az/Z/S6s5e\nLdFMooynSuTnHxl0peYjHo2cjB6bsFF1e5Mhu5C6BhFGSd0BDwi1TWck5/d75+gu\n51QWM63rsKCdpCjRmmfWCqBcsfRMrm6rqkloLh+e1KN2jwrTMJ9rdB6SMyW1tvTy\ndl1GyiDO1la3AARmk9Y9REcn3Ky8m63Wf5W3EFCLGwKBgQD+RIok12gDfXdxI9A2\n0s+7WcfT8XJfIdUaPDgXNVYJPJU1wiAlvWhWmX1J9tEjZM+lk6w+/RSXhdQjZ0Gl\nBaAvbFzyHzt/F3ViIuC9xew23VlBUoFzueCpTs6d9oytVCajEoLJm8/ZeQ7QNeeI\nCMZD0ptagyvgsbXoRkWOyTq7twKBgQDQpvwRB4KbPfD/UMC9RoY1ENz0CK46rtKk\nBrCZ4VDKt/wWX74RPIRBIPV4KlDfXq3gARvWZOanta+rMVK09l/77bpdZog0S2Zb\nDS4PQMIsnqLjcfdF5pPWNd+A3/pjXn/0xSO2s+lFgpdEpzRRoVmk/4PtRkQkp7AT\noP6slWAv3wKBgQCqm8atrbNnFBq+2a7t+knUhgtlFM8PMh5ROjLQr8MI85OSvKzh\nZdPKt7avmGMAArapfQrIQPw+J1gOYUxUtA+lgmpjM72yK0ViEdEGxPUYYzFueTPP\nONub/vr4VuRRsPMz3EnRiTDP1UCxSFoQlwKho4EGHJmmbNeIAQ7PHgrAxQKBgQCy\ndF9aYUX/aLbaZ0Kxn8PhVw7jWRlK74MQ7vfUZLUo7Lsal8CEFXI4EexgXjDVGrEz\nyT7520q7XdVlYcYPKDlnyyd+AtezglmEvn0KZqSsbPF7/lky28bNiz4hh28r1gMy\nYfntpWp6HPsrqKZCuvFlAXTgVxypDRK3dxbanNermQKBgAMvVpIfDZtDk320EqCV\nRfwcvq138CI68/toK0ssizDLlt0eCL8FTE9tdcP6HvPyTs1hC23W4mnGMQNMdfS3\nd1O+2cfDc60sdv8b2klyQC5L99OXVs4obPm+3Avlxh1D+GXqfO/AQz4wNfYOnBIe\nnhKamxf7BKXHfcmIurinTVZa\n-----END PRIVATE KEY-----\n",
+    "client_email": "bri-640@bri-bank-412205.iam.gserviceaccount.com",
+    "client_id": "110473469006368941041",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bri-640%40bri-bank-412205.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

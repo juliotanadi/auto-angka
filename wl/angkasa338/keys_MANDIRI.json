@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "mandiri-412205",
+    "private_key_id": "b140d9c237e14cb3e9f7c9a1b332de179c489929",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDmmuzJJLxsYTYC\nvgWBohqaiUbHLSueszMIaCjvdl2WBFkbgXCs6E7onE8ToyUUjz0HkbUUWG8aVqJ3\nTAwwJ/S8Q0lgUXQ3xITqelNESLZ0J8SFvYEEx70cDRNZ1m3GsXh4W454HU/uEnhv\nZJXx87d9e20/Qxz1X5xge5blbuosGP5lVi+N4wkES1b5Q5Fdj0ac0YItCJRGmFRS\nOJ3xWw4t/eCvqQu1AXXS2u83RM9/oyLicQXe3o+jRfdTKxmPAQFna4zTB41VOTHW\n6MBxFlfL8jkyKgMyCQAEOZEuoxkRItLA2dlzHI2W5ZiQcSt0ZJuuwDlxc6o+d5LY\nMvIr20gFAgMBAAECggEAAuonCgJ2heF9/u+LPvCJ6OAeo+Up7aSS2uKuJHCuOCIv\n73gQW4Ry0t/UOV77g1StectZVZDUk/76U2BZBcF2Mhb2S3Wxbq8DhbnWvuszBdQm\n2Ls6G+cGYzS1xOc/60inntB8GX/irb36sGBowMPK0uwyHPWVMnNrP5DwVFAK56nB\nuudpnzN+wy7NVUDLw9qgVeNyNQMQG71Hdi419/cSa1A7cdfmCiok+sHErNE8nK9o\nYsPhxjZW2GjXwnQ8UOoznOA73mQrq1A/eAWunk+2oshd4n6XkKvDkigIS4UC+key\nyXZH2hrJSNhtuxk/7RfmY6mEnB9htleBBoJke1ondQKBgQD61PrVrO8k4E9p97K6\nsh/bilVTTaQXsbI6q8vDeyOn074o/i6AAjsaj32bu9pwIzh+BAxF8IFfyiMb3XJX\naK5VpRvKnUkTJ+lX23Tctm5wZtoB9O2kOqH8VgozwE5vZ03sZImlChmvrImtCIWj\nplMtawnulcgpAJ1e1LUVazEF0wKBgQDrW0InuaqoE9eBBq1EFH7qWLU5wQWR3U3G\n/ZOlJaTKDtgn9axxTmDWz/WObvpCVYIcNpjqjS7Pmpj3ffbzCWu/TvqJ3zJam1xi\nS3N8TQuJ6Dxf+WfTgGr1E5MMzaF2rqusALWUnPDsqGnAnY9SVeZSsB2jdjMgsjIr\nj+ESTEObxwKBgQCycRetMSTECCuWyFdHB/cv+L5wz9g/3vNbV+JSw+R+vV0XzpQI\nDw46+/+w7bgddID47SpKCyoOmj/Vz/lLA7aaSSZ3QuO8k/UlwoLljYcNwa2wHK1+\n2xNn71G8tT9Xc5d056UgWwog9s7O4TQpUubzdaWQLNBDkyNhVlMo1KQAbwKBgQDO\n/VWzZmEmrTytJ1gfNf9gz1+jSZVCceXDiqTda7wAUQneKvzcMdiNVBxchlHnIRjr\nA0F9l2mCAC9kCw6zNKfkeutxcjDw6w5XDJCm04PAZ9Uhe1HK+3gVzn9XlUnZ/UjS\nX1VTPKvPF1bapje0bAPC2U1Xw863hMEG+uUxmI0lZQKBgQC4q94m6wr94nKHfYFw\nJn+zc6PuFMqX5sDhVdpU0vxyVra3OCnwMTCwpJQHhmy2cIpAAhNw9FlTS7FcyIle\n3zCWUK2JNlLIU1pDHrGZUlZ2BETU8fSlerspU+4nEINb+Oa4vqyP/0KnyVqOZQKm\nBbL18v1b51N+pZba3aWM0t0bPA==\n-----END PRIVATE KEY-----\n",
+    "client_email": "mandiri@mandiri-412205.iam.gserviceaccount.com",
+    "client_id": "100057994482836252042",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mandiri%40mandiri-412205.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "bni-bank-412205",
+    "private_key_id": "99dab32471bd3f824b738ac6eb74f4d46fe7618a",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCn4PtBLA4pKc54\nar8oKF52caOeUuBku/SDt3JlmxnM6tEEnE1BuCEjpdTBR2soJXogmyHyQR9chhTq\nbFrM23gEjZvtV1U0HqywHEJ13l2pWqZeECxKuTep3DGrYsbWLT+yC8Xz9Wog//Pt\nRdPkQ8p3f0xWgktu4cUiU9NtgqNEVBg6AJmGngidwNnjhle4MgwWjUN7O93togZq\nGNsmAvUMQpC/o8Qk2EIc+jeJAgGLlhNu/pWz2hJ+U1704uJitiSvLJNrZs0RdMY8\nOx1dVduhd4xm+St3E1GEMsajncYY/fl5enDQt6B3xvFZL0kD8QtOQBxAi1AtEFFx\nJSlbbnt9AgMBAAECggEAAktJMWYWAb0jg5csIUVaz2RnAvz/zEm+9FweZaZ7Xw/s\nsCVMXPiLURoa4uVEPFE1pZprYwzP6Z1WTdU2p90lDW5N9sAwoAXZko3yl7IJNnrQ\ngAzZYqtzR/47CBnRTzTOzZdYc99sPSLrabOlAcOuP1QUJR591kFZj9xiPx3bLruw\nDqraPq0gfV949yY5yWrt6fDaK3n152qYhKGMoU6rpWGFDa1AaTPzl2/gId4epw6Q\nph6AlsX9uK4P4ZZeZfkizAens4xD/aARMQKsk84BAmiVJiisCaMULBbelJkElCd1\nr3z18UqFou4PamvX9RV1sMFARYTIvqsX1oxxQdiNQQKBgQDhYr12PPl4nOL+kAP/\ndYiG0+SbFFgOzkDEJw6PS2gXjVX/j+Bni04Cqmx5VaI6p6PWiqyrVuia8X843Lxk\nSIVWfe4Kf8ACwXzBkci3MI4GNpDY2hXsYCvWcFqfeivjGQRQQEyZadIKYYxw01K/\nTBOsVTlTbjVd+8LZFqgQ0RHJ7QKBgQC+rpMemo4OKnLFI08dMPBbkDD6JJ3pb4U2\njw6sOgi6HgOYzrtKv0AbmuN1QnPCokLEwuny+3cvfLg4U19hir6xrq9w7sO2ITxu\nCn2K6a840RENVzLm4Jme165j/wyvlEe0D00KFsQ+fLtH/a5y1H5ziJTN1B3YDQFJ\n/BPgY/MF0QKBgBkgMtLdlUoW409RqsBtz9yH/rIzIGX2JE45tGvREjed7/pfhbrF\nUtsFOLaGD2HOkns2Vm17cM7lITOrl+zuEL9FpqXQ/AzSmR/TKrcRWKPkrV0fYtZJ\nGln7iH7C1eWpQkvX/zITE/FIUqm5RT5CMudBUPS2Eoj5qg0dc3r8c6k5AoGBAJpL\nm0KNX9u4n4xECRWe7y+4Wtle3eTx18KROhdFEqC//rsctdNDNLXhvKK69f8N26dp\n7XMv5n6nlk4FsM22Pp56sv5YRkfPVx3YIURR2fbIvdqkr8zA+63b6wKBdJtzCh56\nryU1zPCfb9BOR2Yl6njEkVyIgum7hEqAzvipCBKxAoGBAIdbN0i7A7R+vaQWFHg8\nXu0AF1Sw6L0GMGaLgv+wEMoBfv4ajlYSWiWuzblP+7XoKYe4EI95LQnpqkCqUTvw\nSmrDhm9c75Lxmv7aJSpZbpOlZII/av1NPK6VOfhM2ssIaxOYOJGEsfMiUcv2y2DJ\n43pvz9uq/gYFSv6GLpxxRoZG\n-----END PRIVATE KEY-----\n",
+    "client_email": "bni-658@bni-bank-412205.iam.gserviceaccount.com",
+    "client_id": "107709647674807869608",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bni-658%40bni-bank-412205.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

@@ -103,8 +103,6 @@ dist
 # TernJS port file
 .tern-port
 
-wl/
-
 .idea
 
 wl-list.txt
