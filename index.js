@@ -348,8 +348,6 @@ const main = async () => {
 
     if (pendingDocs.length == 0) await main();
 
-    console.log(pendingDocs);
-
     const pendingForms = await getPendingForms();
 
     for await (bank of BANK_LIST) {
