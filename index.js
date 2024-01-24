@@ -344,59 +344,63 @@ const changeStatusPanel = async (data, status) => {
 };
 
 const main = async () => {
-    const { pendingDocs, docsInfo } = await getPendingDocs();
+    try {
+        const { pendingDocs, docsInfo } = await getPendingDocs();
 
-    if (pendingDocs.length == 0) await main();
+        if (pendingDocs.length == 0) await main();
 
-    const pendingForms = await getPendingForms();
+        const pendingForms = await getPendingForms();
 
-    for await (bank of BANK_LIST) {
-        const pendingBank = pendingDocs.filter((p) => p.bank == bank);
-        const pendingPanel = pendingForms.filter((p) => p.bank == bank);
+        for await (bank of BANK_LIST) {
+            const pendingBank = pendingDocs.filter((p) => p.bank == bank);
+            const pendingPanel = pendingForms.filter((p) => p.bank == bank);
 
-        if (pendingBank.length == 0) continue;
-        if (pendingPanel.length == 0) continue;
+            if (pendingBank.length == 0) continue;
+            if (pendingPanel.length == 0) continue;
 
-        const selectedIds = [];
-        const toBeApprove = [];
+            const selectedIds = [];
+            const toBeApprove = [];
 
-        pendingBank.forEach(({ name, coin, row }) => {
-            pendingPanel.forEach((pp) => {
-                if (
-                    pp.name == name &&
-                    pp.coin == coin &&
-                    pp.bank == bank &&
-                    !selectedIds.includes(pp.id)
-                ) {
-                    toBeApprove.push({
-                        id: pp.id,
-                        username: pp.username,
-                        bank,
-                        row,
-                    });
-                    selectedIds.push(pp.id);
-                }
+            pendingBank.forEach(({ name, coin, row }) => {
+                pendingPanel.forEach((pp) => {
+                    if (
+                        pp.name == name &&
+                        pp.coin == coin &&
+                        pp.bank == bank &&
+                        !selectedIds.includes(pp.id)
+                    ) {
+                        toBeApprove.push({
+                            id: pp.id,
+                            username: pp.username,
+                            bank,
+                            row,
+                        });
+                        selectedIds.push(pp.id);
+                    }
+                });
             });
-        });
 
-        if (toBeApprove.length != 0) {
-            const approveDocsResponse = await approveDocs(
-                docsInfo.listIDs[bank],
-                docsInfo.listIndex[bank],
-                bank,
-                'angkasa338',
-                toBeApprove
-            );
+            if (toBeApprove.length != 0) {
+                const approveDocsResponse = await approveDocs(
+                    docsInfo.listIDs[bank],
+                    docsInfo.listIndex[bank],
+                    bank,
+                    'angkasa338',
+                    toBeApprove
+                );
 
-            const approvePanelResponse = await changeStatusPanel(
-                toBeApprove,
-                2
-            );
+                const approvePanelResponse = await changeStatusPanel(
+                    toBeApprove,
+                    2
+                );
 
-            console.log('--------------------');
-            console.log(bank);
-            console.log(toBeApprove.map((d) => d.username));
+                console.log('--------------------');
+                console.log(bank);
+                console.log(toBeApprove.map((d) => d.username));
+            }
         }
+    } catch (error) {
+        console.log(error);
     }
     await main();
 };
