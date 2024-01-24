@@ -2,7 +2,10 @@ const express = require('express');
 const { JWT } = require('google-auth-library');
 const { GoogleSpreadsheet } = require('google-spreadsheet');
 const bodyParser = require('body-parser');
-const axios = require('axios');
+const axs = require('axios');
+const axios = axs.create({
+    timeout: 10000,
+});
 require('dotenv').config();
 
 const app = express();
@@ -344,6 +347,8 @@ const main = async () => {
     const { pendingDocs, docsInfo } = await getPendingDocs();
 
     if (pendingDocs.length == 0) await main();
+
+    console.log(pendingDocs);
 
     const pendingForms = await getPendingForms();
 
