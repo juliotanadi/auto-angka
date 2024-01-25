@@ -389,7 +389,7 @@ const main = async () => {
                     toBeApprove
                 );
 
-                if (approveDocsResponse.data.length == 200) {
+                if (approveDocsResponse.data.length != 0) {
                     const approvePanelResponse = await changeStatusPanel(
                         toBeApprove,
                         2
