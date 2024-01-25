@@ -4,7 +4,7 @@ const { GoogleSpreadsheet } = require('google-spreadsheet');
 const bodyParser = require('body-parser');
 const axs = require('axios');
 const axios = axs.create({
-    timeout: 10000,
+    timeout: 20000,
 });
 require('dotenv').config();
 
