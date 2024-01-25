@@ -389,14 +389,16 @@ const main = async () => {
                     toBeApprove
                 );
 
-                const approvePanelResponse = await changeStatusPanel(
-                    toBeApprove,
-                    2
-                );
+                if (approveDocsResponse.status == 200) {
+                    const approvePanelResponse = await changeStatusPanel(
+                        toBeApprove,
+                        2
+                    );
 
-                console.log('--------------------');
-                console.log(bank);
-                console.log(toBeApprove.map((d) => d.username));
+                    console.log('--------------------');
+                    console.log(bank);
+                    console.log(toBeApprove.map((d) => d.username));
+                }
             }
         }
     } catch (error) {
