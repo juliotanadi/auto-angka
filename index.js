@@ -344,6 +344,7 @@ const changeStatusPanel = async (data, status) => {
 };
 
 const main = async () => {
+    await new Promise((resolve) => setTimeout(resolve, 5000));
     try {
         const { pendingDocs, docsInfo } = await getPendingDocs();
 
