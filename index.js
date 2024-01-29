@@ -365,7 +365,7 @@ const main = async () => {
             pendingBank.forEach(({ name, coin, row }) => {
                 pendingPanel.forEach((pp) => {
                     if (
-                        pp.name.indexOf(name) != -1 &&
+                        pp.name.indexOf(name) == 0 &&
                         pp.coin == coin &&
                         pp.bank == bank &&
                         !selectedIds.includes(pp.id)
